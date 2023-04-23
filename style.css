@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0;
+    background-image: url('./img/background-para-paginas-web-html.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  form {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: justify;
+  }
+  
